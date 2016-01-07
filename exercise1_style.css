@@ -3,12 +3,14 @@
   padding: 15px;
   margin: 10px;
   box-sizing: border-box;
+  float: right;
 }
 #testDiv2 {
   width: 300px;
   padding: 15px;
   margin: 10px;
   box-sizing: border-box;
+  float: right;
 }
 #container {
   width: 1200;
