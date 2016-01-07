@@ -2,11 +2,13 @@
   width: 300px;
   padding: 15px;
   margin: 10px;
+  box-sizing: border-box;
 }
 #testDiv2 {
   width: 300px;
   padding: 15px;
   margin: 10px;
+  box-sizing: border-box;
 }
 #container {
   width: 1200;
