@@ -1,5 +1,5 @@
 #testDiv1 {
-  width: 300px;
+  width: 2000px;
   padding: 15px;
   margin: 10px;
   box-sizing: border-box;
@@ -10,7 +10,7 @@
   padding: 15px;
   margin: 10px;
   box-sizing: border-box;
-  float: right;
+  float: left;
 }
 #container {
   width: 1200;
